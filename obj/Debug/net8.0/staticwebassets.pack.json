@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "/home/bishel/Documents/lab/ClassC#/ClassLab/obj/Debug/net8.0/scopedcss/projectbundle/ClassLab.bundle.scp.css",
+      "PackagePath": "staticwebassets/ClassLab.bundle.scp.css"
+    },
+    {
+      "Id": "/home/bishel/Documents/lab/ClassC#/ClassLab/wwwroot/Chart.min.js",
+      "PackagePath": "staticwebassets/Chart.min.js"
+    },
+    {
+      "Id": "/home/bishel/Documents/lab/ClassC#/ClassLab/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/home/bishel/Documents/lab/ClassC#/ClassLab/wwwroot/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/bishel/Documents/lab/ClassC#/ClassLab/wwwroot/bootstrap.min.js",
+      "PackagePath": "staticwebassets/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/bishel/Documents/lab/ClassC#/ClassLab/wwwroot/dashboard.css",
+      "PackagePath": "staticwebassets/dashboard.css"
+    },
+    {
+      "Id": "/home/bishel/Documents/lab/ClassC#/ClassLab/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/home/bishel/Documents/lab/ClassC#/ClassLab/wwwroot/feather.min.js",
+      "PackagePath": "staticwebassets/feather.min.js"
+    },
+    {
+      "Id": "/home/bishel/Documents/lab/ClassC#/ClassLab/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/bishel/Documents/lab/ClassC#/ClassLab/wwwroot/jquery-3.2.1.slim.min.js",
+      "PackagePath": "staticwebassets/jquery-3.2.1.slim.min.js"
+    },
+    {
+      "Id": "/home/bishel/Documents/lab/ClassC#/ClassLab/wwwroot/js/Chart.min.js",
+      "PackagePath": "staticwebassets/js/Chart.min.js"
+    },
+    {
+      "Id": "/home/bishel/Documents/lab/ClassC#/ClassLab/wwwroot/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/home/bishel/Documents/lab/ClassC#/ClassLab/wwwroot/js/feather.min.js",
+      "PackagePath": "staticwebassets/js/feather.min.js"
+    },
+    {
+      "Id": "/home/bishel/Documents/lab/ClassC#/ClassLab/wwwroot/js/jquery-3.2.1.slim.min.js",
+      "PackagePath": "staticwebassets/js/jquery-3.2.1.slim.min.js"
+    },
+    {
+      "Id": "/home/bishel/Documents/lab/ClassC#/ClassLab/wwwroot/js/popper.min.js",
+      "PackagePath": "staticwebassets/js/popper.min.js"
+    },
+    {
+      "Id": "/home/bishel/Documents/lab/ClassC#/ClassLab/wwwroot/login.html",
+      "PackagePath": "staticwebassets/login.html"
+    },
+    {
+      "Id": "/home/bishel/Documents/lab/ClassC#/ClassLab/wwwroot/logo.png",
+      "PackagePath": "staticwebassets/logo.png"
+    },
+    {
+      "Id": "/home/bishel/Documents/lab/ClassC#/ClassLab/wwwroot/popper.min.js",
+      "PackagePath": "staticwebassets/popper.min.js"
+    },
+    {
+      "Id": "/home/bishel/Documents/lab/ClassC#/ClassLab/wwwroot/signin.css",
+      "PackagePath": "staticwebassets/signin.css"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.ClassLab.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.ClassLab.props",
+      "PackagePath": "build\\ClassLab.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ClassLab.props",
+      "PackagePath": "buildMultiTargeting\\ClassLab.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ClassLab.props",
+      "PackagePath": "buildTransitive\\ClassLab.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
